@@ -7,14 +7,14 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
-    siteTitle: `Gatien Boquet`,
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
-    siteHeadline: `Minimal Blog - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://minimal-blog.lekoarts.de`,
-    siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
-    siteLanguage: `en`,
+    siteTitle: `Gatien Boquet - Consultant DevOps`,
+    siteTitleAlt: `Gatien Boquet - Consultant DevOps`,
+    siteHeadline: `Gatien Boquet - Consultant DevOps`,
+    siteUrl: `https://gatien.dev`,
+    siteDescription: `Gatien Boquet - Consultant DevOps`,
+    siteLanguage: `fr`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `@gatienboquet`,
   },
   plugins: [
     {
